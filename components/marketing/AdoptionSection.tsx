@@ -58,7 +58,7 @@ export const AdoptionSection = () => {
             </Text>
             <Paragraph>
               Use recaptured MEV to optimize protocol incentives and drive gains to your most important metrics. Always
-              incentive aligned to protocol. \n * Except provided in situations where players are sufficiently patient, there exists a Nash Equilibrium where collision may arise.
+              incentive aligned to protocol. <br/> * Except provided in situations where players are sufficiently patient, there exists a Nash Equilibrium where collision may arise.
              
             </Paragraph>
           </Box>
